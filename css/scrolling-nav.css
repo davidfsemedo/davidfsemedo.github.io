@@ -45,6 +45,9 @@ html, body {
   color: #444;*/
 }
 
+footer {
+  background-color: #284E61FF;
+}
 
 section {
   padding: 50px;
@@ -143,3 +146,4 @@ section {
   text-decoration: none;
   color: #FFF;
 }
+
