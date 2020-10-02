@@ -8,6 +8,10 @@
   }
 }
 
+#header_section{
+  background-color: #284E61FF
+}
+
 div.inline {
   float:left;
 }
