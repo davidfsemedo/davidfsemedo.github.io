@@ -2,33 +2,39 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Assistant Professor (Tenure Track) ·
+  <a href="https://nova-lincs.di.fct.unl.pt/" target="_blank">NOVA LINCS</a> ·
+  <a href="https://di.fct.unl.pt/" target="_blank">Departamento de Informática, FCT NOVA</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Departament of Informatics</p>
+    <p>NOVA School of Science and Technology </p>
+    <p>Universidade NOVA de Lisboa</p>
+    <p>2829-516 Caparica, Portugal</p>
+    <p><span id="obf-email" data-u="df.semedo" data-d="fct.unl.pt"></span></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: false
+  limit: 3
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<script>
+(function(){var s=document.getElementById('obf-email');if(s){var a=s.dataset.u+'@'+s.dataset.d;s.innerHTML='<a href="mailto:'+a+'">'+a+'</a>';}})();
+</script>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an Assistant Professor (tenure-track) at the [Departamento de Informática](https://di.fct.unl.pt/), FCT — Universidade NOVA de Lisboa, and an integrated researcher at [NOVA LINCS](https://nova-lincs.di.fct.unl.pt/). I hold a Ph.D. in Computer Science (FCT NOVA, 2020) and work at the intersection of **Vision and Language AI**, multimodal deep learning, natural language processing, and computer vision.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research aims to advance multimodal artificial intelligence systems that can perceive, reason, and act in complex environments — moving beyond pattern recognition towards deliberative planning, situational awareness, and trustworthy behaviour. Current directions include large vision-language models (LVLMs), large language model (LLM) adaptation, conversational and agentic AI, and domain-specific model customisation for Portuguese and European languages.
+

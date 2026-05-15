@@ -1,15 +1,45 @@
 ---
 layout: page
-permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+permalink: /teaching/
+description: Courses at FCT — Universidade NOVA de Lisboa.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 4
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Courses (2022 – present)
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+### MSc Level
 
-{% include courses.liquid %}
+| Course | Programme | Years |
+|--------|-----------|-------|
+| Natural Language Search and Processing | MSc Computer Science | 2026 |
+| Vision and Language Processing Systems | MSc Computer Science | 2026 |
+| Computer Vision | MSc Computer Science | 2026 |
+| Advanced Programming for Biology | MSc Bioinformatics | 2024, 2025, 2026 |
+| Advanced Programming for Science and Engineering | MSc Biorganic Chemistry | 2024, 2025, 2026 |
+| Information Retrieval | MSc Computer Science | 2023 |
+
+<br>
+
+### BSc Level
+
+| Course | Programme | Years |
+|--------|-----------|-------|
+| Object-Oriented Programming | BSc Computer Science | 2025 |
+| Algorithms and Data Structures | BSc Computer Science | 2025 |
+| Design and Analysis of Algorithms | BSc Computer Science | 2023, 2024 |
+| Introduction to Programming | BSc Computer Science | 2024 |
+| Computer Science Final Project | BSc Computer Science | 2023, 2024, 2025 |
+| Introduction to Programming for Science and Engineering | BSc Physics & Biomedical Engineering | 2023 |
+
+<br>
+
+### Invited Lectures
+
+| Course | Programme | Years |
+|--------|-----------|-------|
+| Deep Learning for Multimedia (module) | PhD in Digital Media, FCT NOVA | 2023, 2024, 2025 |
+| Deep Learning | CMU Academy Programme | 2025 |
+| Foundations of Data Science | CMU Academy Programme | 2025, 2026 |
+
