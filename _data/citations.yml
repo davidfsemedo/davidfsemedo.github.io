@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-08'
 papers:
   O8mUEM8AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: Diachronic cross-modal embeddings
     year: '2019'
   O8mUEM8AAAAJ:2osOgNQ5qMEC:
-    citations: 16
+    citations: 17
     title: NovaSearch at ImageCLEFmed 2016 Subfigure Classification Task.
     year: '2016'
   O8mUEM8AAAAJ:3fE2CSJIrl8C:
@@ -22,7 +22,7 @@ papers:
     title: Real-time Action Recognition in Surveillance Scenarios
     year: Unknown Year
   O8mUEM8AAAAJ:4JMBOYKVnBMC:
-    citations: 0
+    citations: 1
     title: Language Models Can be Efficiently Steered via Minimal Embedding Layer Transformations
     year: '2025'
   O8mUEM8AAAAJ:4TOpqqG69KYC:
@@ -74,7 +74,7 @@ papers:
     title: 2021 9th International Workshop on Biometrics and Forensics (IWBF)
     year: Unknown Year
   O8mUEM8AAAAJ:M3NEmzRMIkIC:
-    citations: 1
+    citations: 2
     title: 'AMALIA: A Fully Open Large Language Model for European Portuguese'
     year: '2026'
   O8mUEM8AAAAJ:M3ejUd6NZC8C:
@@ -102,7 +102,7 @@ papers:
     title: Temporal Convolutional Networks
     year: '2022'
   O8mUEM8AAAAJ:TQgYirikUcIC:
-    citations: 1
+    citations: 2
     title: 'Self-ReS: Self-Reflection in Large Vision-Language Models for Long Video Understanding'
     year: '2025'
   O8mUEM8AAAAJ:Tyk-4Ss8FVUC:
@@ -173,6 +173,10 @@ papers:
     citations: 0
     title: Show and Guide
     year: '2024'
+  O8mUEM8AAAAJ:blknAaTinKkC:
+    citations: 0
+    title: 'AMALIA-VL: A Native European Portuguese Open-Source Vision and Language Model'
+    year: '2026'
   O8mUEM8AAAAJ:d1gkVwhDpl0C:
     citations: 4
     title: Contact-free airport borders with biometrics-on-the-move
@@ -190,13 +194,17 @@ papers:
     title: Dynamic-keyword extraction from social media
     year: '2019'
   O8mUEM8AAAAJ:hC7cP41nSMkC:
-    citations: 4
+    citations: 5
     title: Multi-trait user simulation with adaptive decoding for conversational task assistants
     year: '2024'
   O8mUEM8AAAAJ:hFOr9nPyWt4C:
-    citations: 1
+    citations: 2
     title: "V-Gl\xF3rIA: Customizing Large Vision and Language Models to European Portuguese"
     year: '2024'
+  O8mUEM8AAAAJ:hMod-77fHWUC:
+    citations: 0
+    title: 'PorTEXTO: A European Portuguese Benchmark for Visual Text Extraction'
+    year: '2026'
   O8mUEM8AAAAJ:hqOjcs7Dif8C:
     citations: 3
     title: Assisting news media editors with cohesive visual storylines
@@ -230,7 +238,7 @@ papers:
     title: Rating prediction in conversational task assistants with behavioral and conversational-flow features
     year: '2023'
   O8mUEM8AAAAJ:maZDTaKrznsC:
-    citations: 0
+    citations: 3
     title: 'ALBA: A European Portuguese Benchmark for Evaluating Language and Linguistic Dimensions in Generative LLMs'
     year: '2026'
   O8mUEM8AAAAJ:qUcmZB5y_30C:
@@ -238,7 +246,7 @@ papers:
     title: 'Show and Guide: Instructional-Plan Grounded Vision and Language Model'
     year: '2024'
   O8mUEM8AAAAJ:qjMakFHDy7sC:
-    citations: 18
+    citations: 19
     title: Open-domain conversational search assistant with transformers
     year: '2021'
   O8mUEM8AAAAJ:qxL8FJ1GzNcC:
