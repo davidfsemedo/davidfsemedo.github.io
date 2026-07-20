@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-20'
 papers:
   O8mUEM8AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -50,7 +50,7 @@ papers:
     title: Towards Open-domain Vision and Language Understanding with Wikimedia
     year: '2021'
   O8mUEM8AAAAJ:HDshCWvjkbEC:
-    citations: 35
+    citations: 36
     title: Gl\'orIA-A Generative and Open Large Language Model for Portuguese
     year: '2024'
   O8mUEM8AAAAJ:IjCSPb-OGe4C:
@@ -74,8 +74,8 @@ papers:
     title: 2021 9th International Workshop on Biometrics and Forensics (IWBF)
     year: Unknown Year
   O8mUEM8AAAAJ:M3NEmzRMIkIC:
-    citations: 2
-    title: 'AMALIA: A Fully Open Large Language Model for European Portuguese'
+    citations: 3
+    title: 'AMALIA: A fully open large language model for European Portuguese'
     year: '2026'
   O8mUEM8AAAAJ:M3ejUd6NZC8C:
     citations: 3
