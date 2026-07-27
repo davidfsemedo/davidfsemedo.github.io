@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-27'
 papers:
   O8mUEM8AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -66,7 +66,7 @@ papers:
     title: Temporal Convolutional Networks for Robust Face Liveness Detection
     year: '2022'
   O8mUEM8AAAAJ:L8Ckcad2t8MC:
-    citations: 13
+    citations: 14
     title: Plan-Grounded Large Language Models for Dual Goal Conversational Settings
     year: '2024'
   O8mUEM8AAAAJ:LkGwnXOMwfcC:
@@ -81,6 +81,10 @@ papers:
     citations: 3
     title: 'Twiz: The multimodal conversational task wizard'
     year: '2022'
+  O8mUEM8AAAAJ:NMxIlDl6LWMC:
+    citations: 0
+    title: VIGiA
+    year: '2026'
   O8mUEM8AAAAJ:QIV2ME_5wuYC:
     citations: 0
     title: Grounded Complex Task Segmentation for Conversational Assistants
@@ -242,7 +246,7 @@ papers:
     title: 'ALBA: A European Portuguese Benchmark for Evaluating Language and Linguistic Dimensions in Generative LLMs'
     year: '2026'
   O8mUEM8AAAAJ:qUcmZB5y_30C:
-    citations: 2
+    citations: 3
     title: 'Show and Guide: Instructional-Plan Grounded Vision and Language Model'
     year: '2024'
   O8mUEM8AAAAJ:qjMakFHDy7sC:
