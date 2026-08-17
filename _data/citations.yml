@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-17'
 papers:
   O8mUEM8AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -78,7 +78,7 @@ papers:
     title: 2021 9th International Workshop on Biometrics and Forensics (IWBF)
     year: Unknown Year
   O8mUEM8AAAAJ:M3NEmzRMIkIC:
-    citations: 4
+    citations: 5
     title: 'AMALIA: A fully open large language model for European Portuguese'
     year: '2026'
   O8mUEM8AAAAJ:M3ejUd6NZC8C:
@@ -126,7 +126,7 @@ papers:
     title: Adaptive temporal triplet-loss for cross-modal embedding learning
     year: '2020'
   O8mUEM8AAAAJ:UebtZRa9Y70C:
-    citations: 16
+    citations: 17
     title: A benchmark of visual storytelling in social media
     year: '2019'
   O8mUEM8AAAAJ:W7OEmFMy1HYC:
@@ -206,7 +206,7 @@ papers:
     title: Dynamic-keyword extraction from social media
     year: '2019'
   O8mUEM8AAAAJ:hC7cP41nSMkC:
-    citations: 5
+    citations: 6
     title: Multi-trait user simulation with adaptive decoding for conversational task assistants
     year: '2024'
   O8mUEM8AAAAJ:hFOr9nPyWt4C:
@@ -226,7 +226,7 @@ papers:
     title: 'FineVAU: A Novel Human-Aligned Benchmark for Fine-Grained Video Anomaly Understanding'
     year: '2026'
   O8mUEM8AAAAJ:isC4tDSrTZIC:
-    citations: 0
+    citations: 1
     title: 'VIGiA: Instructional Video Guidance via Dialogue Reasoning and Retrieval'
     year: '2026'
   O8mUEM8AAAAJ:j3f4tGmQtD8C:
