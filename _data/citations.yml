@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-24'
 papers:
   O8mUEM8AAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -54,7 +54,7 @@ papers:
     title: 'PHEB: An European Portuguese High School-Level LLM Benchmark'
     year: '2026'
   O8mUEM8AAAAJ:HDshCWvjkbEC:
-    citations: 38
+    citations: 40
     title: Gl\'orIA-A Generative and Open Large Language Model for Portuguese
     year: '2024'
   O8mUEM8AAAAJ:IjCSPb-OGe4C:
@@ -138,7 +138,7 @@ papers:
     title: Graph-based social media story linking.
     year: '2018'
   O8mUEM8AAAAJ:Wp0gIr-vW9MC:
-    citations: 9
+    citations: 10
     title: Learning to ask questions for zero-shot dialogue state tracking
     year: '2023'
   O8mUEM8AAAAJ:Y0pCki6q_DkC:
@@ -206,11 +206,11 @@ papers:
     title: Dynamic-keyword extraction from social media
     year: '2019'
   O8mUEM8AAAAJ:hC7cP41nSMkC:
-    citations: 6
+    citations: 7
     title: Multi-trait user simulation with adaptive decoding for conversational task assistants
     year: '2024'
   O8mUEM8AAAAJ:hFOr9nPyWt4C:
-    citations: 2
+    citations: 3
     title: "V-Gl\xF3rIA: Customizing Large Vision and Language Models to European Portuguese"
     year: '2024'
   O8mUEM8AAAAJ:hMod-77fHWUC:
@@ -230,7 +230,7 @@ papers:
     title: 'VIGiA: Instructional Video Guidance via Dialogue Reasoning and Retrieval'
     year: '2026'
   O8mUEM8AAAAJ:j3f4tGmQtD8C:
-    citations: 14
+    citations: 15
     title: 'Global piqa: Evaluating physical commonsense reasoning across 100+ languages and cultures'
     year: '2025'
   O8mUEM8AAAAJ:kNdYIx-mwKoC:
